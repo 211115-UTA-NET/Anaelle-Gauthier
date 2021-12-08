@@ -1,0 +1,15 @@
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\bin\Debug\net6.0\RockPaperScissorApp.App.exe
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\bin\Debug\net6.0\RockPaperScissorApp.App.deps.json
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\bin\Debug\net6.0\RockPaperScissorApp.App.runtimeconfig.json
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\bin\Debug\net6.0\RockPaperScissorApp.App.dll
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\bin\Debug\net6.0\ref\RockPaperScissorApp.App.dll
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\bin\Debug\net6.0\RockPaperScissorApp.App.pdb
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\obj\Debug\net6.0\RockPaperScissorApp.App.csproj.AssemblyReference.cache
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\obj\Debug\net6.0\RockPaperScissorApp.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\obj\Debug\net6.0\RockPaperScissorApp.App.AssemblyInfoInputs.cache
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\obj\Debug\net6.0\RockPaperScissorApp.App.AssemblyInfo.cs
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\obj\Debug\net6.0\RockPaperScissorApp.App.csproj.CoreCompileInputs.cache
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\obj\Debug\net6.0\RockPaperScissorApp.App.dll
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\obj\Debug\net6.0\ref\RockPaperScissorApp.App.dll
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\obj\Debug\net6.0\RockPaperScissorApp.App.pdb
+C:\Users\15612\Revature-files\consoleBankAccount\consoleBankAccount\obj\Debug\net6.0\RockPaperScissorApp.App.genruntimeconfig.cache
